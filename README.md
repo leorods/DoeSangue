@@ -7,6 +7,6 @@
   	<img src="https://img.shields.io/github/repo-size/LeoGHz/DoeSangue.svg"></img>
   </a>
 
-## 🛰 Projeto
+## 🩸 Projeto
 
-#### 🛰 Doe Sangue é um projeto para encontrar doadores de sangue.
+#### O Doe Sangue é um projeto para encontrar doadores de sangue.
