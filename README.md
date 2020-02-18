@@ -14,4 +14,9 @@
 
 ## 🩸 Projeto
 
-#### O Doe Sangue é um projeto para encontrar e registrar doadores de sangue.
+#### O Doe Sangue é um projeto para incentivar, encontrar e registrar doadores de sangue.
+
+## ⚛️ Frontend
+
+#### obs: a página está com zoom de 50%
+<img align="center" src="./static/frontend-pc.png"></img>
