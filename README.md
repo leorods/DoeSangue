@@ -14,4 +14,4 @@
 
 ## 🩸 Projeto
 
-#### O Doe Sangue é um projeto para encontrar doadores de sangue.
+#### O Doe Sangue é um projeto para encontrar e registrar doadores de sangue.
