@@ -4,8 +4,8 @@
 <p align="center">
 
   </a>
-    <a aria-label="Dias" href="https://rocketseat.com.br/maratonadev/aulas/3.0?aula=1">
-    <img src="https://img.shields.io/badge/Dia-1%20de%203-orange"></img>
+    <a aria-label="Dias" href="https://rocketseat.com.br/maratonadev/aulas/3.0?aula=2">
+    <img src="https://img.shields.io/badge/Dia-2%20de%203-orange"></img>
   </a>
   
   <a aria-label="Repo Size" href="README.md">
