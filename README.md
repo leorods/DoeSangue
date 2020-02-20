@@ -1,4 +1,4 @@
-<img src="./static/computer-vector.svg" align="center"></img>
+<img src="./public/logo.png" align="center"></img>
 <h1 align="center">Maratona Dev 3</h1>
 <p align="center">Projeto <strong>Doe Sangue</strong> Desenvolvido durante a 3ª Edição da MaratonaDev da Rocketseat</p>
 <p align="center">
@@ -16,9 +16,7 @@
   	<img src="https://img.shields.io/github/repo-size/LeoGHz/DoeSangue.svg"></img>
   </a>
 
-## :rocket: Tecnologias, ferramentas e dependências
-
-### Esse projeto foi desenvolvido com as seguintes tecnologias:
+## :rocket: Tecnologias
 
 [Node.js](https://nodejs.org/en/)
 | [Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
@@ -28,7 +26,7 @@
 | [PostgreSQL](https://www.postgresql.org/)
 | [Nunjucks](https://mozilla.github.io/nunjucks/)
 
-## 🩸 Projeto
+## 💻 Projeto
 
 #### O Doe Sangue é um projeto para incentivar, encontrar e registrar doadores de sangue, desenvolvido nos dias 17 e 18 de Fevereiro de 2020 na MaratonaDev da Rocketseat, cadastre-se como um doador de sangue!
 
