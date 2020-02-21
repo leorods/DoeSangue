@@ -1,4 +1,4 @@
-<img src="./public/logo.png" align="center"></img>
+<img src="./static/frontend-pc.png" align="center"></img>
 <h1 align="center">Maratona Dev 3</h1>
 <p align="center">Projeto <strong>Doe Sangue</strong> Desenvolvido durante a 3ª Edição da MaratonaDev da Rocketseat</p>
 <p align="center">
